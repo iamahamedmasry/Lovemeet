@@ -1,0 +1,7 @@
+{
+  "name": "lovemeeet",
+  "description": "A Valentine's Day themed platform featuring a multi-lingual quote generator, a playful date planning wizard with venue recommendations, and an anonymous AI-powered proposal system.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
