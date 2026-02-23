@@ -1,3 +1,5 @@
+![lovemeeet](https://github.com/user-attachments/assets/3f7aaea9-1555-4cbc-aeca-720f2d925393)
+
 # 🎀 LoveMeet - 100% Open Source Date Planning App
 
 A beautiful, fully open-source web application to create and share romantic date plans. **No paid APIs, no closed-source dependencies.** Everything runs on free, open-source technologies.
